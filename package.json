@@ -1,5 +1,5 @@
 {
-  "name": "@bgoodman/simple-file-upload",
+  "name": "@alphacentaura/simple-file-upload",
   "version": "0.1.5",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
