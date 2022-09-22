@@ -44,7 +44,7 @@ interface SimpleFileUploadProps {
                   >
                     {file
                       ? <div className={style.uploadHint}><div>{file.name}</div></div>
-                      : <div className={style.uploadHint}><div>Upload File</div> <UploadIcon/></div>
+                      : <div className={style.uploadHint}><div>Загрузите файл</div> <UploadIcon/></div>
                     }
                   </button>
 
